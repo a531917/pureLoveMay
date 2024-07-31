@@ -1,32 +1,5 @@
-<<<<<<< HEAD
-# pureLoveMay
-=======
-<<<<<<< HEAD
-# pureLoveMay
-=======
-# may464646
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> 3cadaba (updata to git)
->>>>>>> 4ec14d6 (update to git)
+1.实现输入名单并抽奖功能（√）
+2.建立调整概率抽奖的数学模型
+3.实现根据优先级调整抽奖概率
+4.根据抽签人的使用习惯，优化UI使其更好用（比如excel导入导出之类的）
+5.美化UI使其更好看（抽奖动画是否有必要？）
